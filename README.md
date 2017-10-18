@@ -2,6 +2,12 @@
 
 Description of App
 
+Clone starter repo:
+
+```
+git clone https://github.com/IronCoderXYZ/React-Starter-Template {YourAppName}
+```
+
 ### Usage
 
 1. Clone the desired Repository
